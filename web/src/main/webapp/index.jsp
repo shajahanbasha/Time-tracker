@@ -11,7 +11,7 @@
     <title>Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Hey Team!Simple Example Web Page</h1>
+  <h1>Simple Example Web Page</h1>
   <p>
     This is a very simple example web page on a JSP.
   </p>
